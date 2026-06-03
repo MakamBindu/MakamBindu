@@ -106,15 +106,6 @@ An e-commerce web application with product listings, shopping cart functionality
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakamBindu\&show_icons=true\&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MakamBindu\&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MakamBindu\&layout=compact\&theme=github_dark)
-
----
 
 ## 🌐 Connect With Me
 
