@@ -12,7 +12,7 @@
 
 🎓 Integrated M.Tech Computer Science & Engineering (Collaboration with Virtusa) at VIT-AP University
 
-📊 CGPA: **8.78**
+📊 CGPA: **8.82**
 
 💻 Passionate about:
 
